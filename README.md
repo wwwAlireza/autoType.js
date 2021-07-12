@@ -10,7 +10,6 @@ First link the autoType.js file to the page before all scripts <br>
 ```
 Then use the writer function to use autoType <br>
 <h2>Example :</h2>
-```javascript
-const p = document.querySelector("#myParagraph")
+javascript : <br>
+const p = document.querySelector("#myParagraph") <br>
 writer("Hello World", p, 230)
-```
