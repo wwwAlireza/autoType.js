@@ -9,7 +9,7 @@ First link the autoType.js file to the page before all scripts <br>
 <script src="autoType.js"></script>
 ```
 Then use the writer function to use autoType <br>
-<h2>Example :</h2> <br>
+<h2>Example :</h2>
 ```javascript
 const p = document.querySelector("#myParagraph")
 writer("Hello World", p, 230)
